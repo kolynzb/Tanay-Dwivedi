@@ -2,6 +2,7 @@
 - 👀 I’m interested in App Devlopment and Web Devlopment
 - 🌱 I’m currently learning Android App Devlopment
 - 💞️ I’m looking forward to collaborate on an Android App Devlopment project
+- 🤖 The programming languages I know are Java(advanced), C(advanced), C++(intermediate), JavaScript(intermediate), Python(basic) and Dart(basic)
 - 📫 You can reach me through my mail i.e. --> tanaydwivedi2002@gmail.com <--
 
 <!---
