@@ -44,14 +44,14 @@
 
 <hr>
 
-### Connect With Me💻
+<!-- ### Connect With Me💻
 <p align="left" align='right'>
 <a target="_blank"href="https://medium.com/me/stories/public"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a target="_blank"href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmlkBxvpxpFmsFFBkcMwNpmZHqGZrJxpZSTLqZCgwFKFvpgtHkGhTRXQrTjzJCMWFqBmhN"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank"href="https://twitter.com/prieto_de_Maria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/sayan_shah/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank"href="https://www.kaggle.com/sayansh001">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<a target="_blank"href="https://www.kaggle.com/sayansh001">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a> -->
 
 <br>
 
