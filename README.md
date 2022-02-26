@@ -4,11 +4,11 @@
 
 - <img src="https://media.giphy.com/media/5tdug88O18Rvm2m0tt/giphy.gif" style="height:40px;width:40px" align = "center"> I’m currently learning **Flutter Development & Blockchain.**
 
-- <img src="https://media.giphy.com/media/dyF3QNj29VyChRbqcf/giphy.gif" style="height:40px;width:40px" align = "center"> Currently doing projects on <i>Android Applications</i> . 
+- <img src="https://media.giphy.com/media/dyF3QNj29VyChRbqcf/giphy.gif" style="height:40px;width:40px" align = "center"> Currently doing projects on <i>**Android Applications**</i> . 
 
-- <img src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" style="height:40px;width:40px" align = "center"> I am always up for Hackathons and App Development project collaborations.
+- <img src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" style="height:40px;width:40px" align = "center"> I am always up for **Hackathons and App Development project** collaborations.
  
-- <img src="https://media.giphy.com/media/hdN3Dqcvrtbqv8OkXl/giphy.gif" style="height:40px;width:40px" align = "center"> Ask me about Android Development  :) 
+- <img src="https://media.giphy.com/media/hdN3Dqcvrtbqv8OkXl/giphy.gif" style="height:40px;width:40px" align = "center"> Ask me about anything **Android Development**  :) 
 
 - <img src="https://media.giphy.com/media/euW6JDwrMn0BqyNC8t/giphy.gif" style="height:40px;width:40px" align = "center"> Fun fact: **I Love Anime and Development!!**
 
