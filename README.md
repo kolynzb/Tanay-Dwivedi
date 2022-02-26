@@ -20,7 +20,7 @@
 ![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanay-Dwivedi&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats) -->
 
 <div>
-<img src="https://activity-graph.herokuapp.com/graph?username=tanay-dwivedi&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=AAFF00&area=true&area_color=98FB98">
+<img src="https://activity-graph.herokuapp.com/graph?username=tanay-dwivedi&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+gitting+it+done&color=AAFF00&area=true&area_color=98FB98">
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 |               |           |
 |       ---     |    ---    |
 | `App-Dev`     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)|
-| `Languages`   | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![JSON](https://img.shields.io/badge/json-FF4B4B?style=for-the-badge&logo=json&logoColor=white)|
+| `Languages`   | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/json-FF4B4B?style=for-the-badge&logo=json&logoColor=white)|
 | `OS`   | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
 | `Database`       | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
 | `Mobile Frameworks`       | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)|
@@ -44,14 +44,12 @@
 
 <hr>
 
-<!-- ### Connect With Me💻
-<p align="left" align='right'>
-<a target="_blank"href="https://medium.com/me/stories/public"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a target="_blank"href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmlkBxvpxpFmsFFBkcMwNpmZHqGZrJxpZSTLqZCgwFKFvpgtHkGhTRXQrTjzJCMWFqBmhN"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="https://twitter.com/prieto_de_Maria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank"href="https://www.instagram.com/sayan_shah/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank"href="https://www.kaggle.com/sayansh001">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a> -->
+### Connect With Me💻
+<p align="left" align='right'>t
+<a target="_blank"href="mailto: tanaydwivedi2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/tanaydwivedi01102002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="https://www.instagram.com/tanay.0110/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank"href="https://www.facebook.com/tanay.0110/">	<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 <br>
 
