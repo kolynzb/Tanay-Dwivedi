@@ -12,12 +12,10 @@
 
 - ⚡ Fun fact **I Love Anime and Development!!**
 
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=232323">
 <hr>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanay-Dwivedi&show_icons=true&locale=en&layout=compact" alt="Tanay-Dwivedi" /></p>
-<br>
-
-![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanay-Dwivedi&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats) -->
+![years Badge](https://badges.pufler.dev/years/Tanay-Dwivedi)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tanay-Dwivedi)
 
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=tanay-dwivedi&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+gitting+it+done&color=AAFF00&area=true&area_color=98FB98">
