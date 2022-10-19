@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" style="height:70px;width:70px"> Bonjour, TANAY this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:75px;width:75px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" style="height:70px;width:70px"> Bonjour, TANAY this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:20px;width:20px"></h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
 - <img src="https://media.giphy.com/media/5tdug88O18Rvm2m0tt/giphy.gif" style="height:40px;width:40px" align = "center"> I’m currently learning **Flutter Development & Competitive Programming.**
@@ -15,13 +15,11 @@
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=232323">
 <hr>
 <br>
-<div>
-<img src="https://activity-graph.herokuapp.com/graph?username=tanay-dwivedi&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
-</div>
 
 <div align="center">
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Tanay's+Github Stats" alt="Tanay's Github stats" />
-<img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=Tanay-Dwivedi&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=0FFF50&currStreakNum=0FFF50&sideLabels=0FFF50&dates=0FFF50&stroke=0FFF50" />
+
+![Tanay Dwivedi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&include_all_commits=true&theme=radical)
+[![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanay-Dwivedi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <hr>
