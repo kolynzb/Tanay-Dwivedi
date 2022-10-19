@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" style="height:70px;width:70px"> Bonjour, TANAY this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:20px;width:20px"></h1>
+<h1 align="center"><img src="" style="height:70px;width:70px"> Bonjour, TANAY this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:20px;width:20px"></h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
 - <img src="https://media.giphy.com/media/5tdug88O18Rvm2m0tt/giphy.gif" style="height:40px;width:40px" align = "center"> I’m currently learning **Flutter Development & Competitive Programming.**
@@ -16,11 +16,16 @@
 <hr>
 <br>
 
-<div align="center">
-
-![Tanay Dwivedi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&include_all_commits=true&theme=radical)
-[![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanay-Dwivedi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanay-Dwivedi&theme=monokai"  display=block width=100% height=auto  alt="1" >
 </div>
+
+## 📊 GitHub Activity
+| ![Tanay github stats](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=radical) | ![Tanay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanay-Dwivedi&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay-Dwivedi&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanay-Dwivedi&theme=github)
 
 <hr>
 
