@@ -1,16 +1,16 @@
 
-<h1 align="center"><img src="" style="height:70px;width:70px"> Bonjour, TANAY this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:20px;width:20px"></h1>
+<h1 align="center"> Bonjour, TANAY this side</h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
-- <img src="https://media.giphy.com/media/5tdug88O18Rvm2m0tt/giphy.gif" style="height:40px;width:40px" align = "center"> I’m currently learning **Flutter Development & Competitive Programming.**
+- I’m currently learning **Flutter Development & Competitive Programming.**
 
-- <img src="https://media.giphy.com/media/dyF3QNj29VyChRbqcf/giphy.gif" style="height:40px;width:40px" align = "center"> Currently doing projects on <i>**Android Applications**</i> . 
+- Currently doing projects on <i>**Android Applications**</i> . 
 
-- <img src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" style="height:40px;width:40px" align = "center"> I am always up for **Hackathons and App Development project** collaborations.
+- I am always up for **Hackathons and App Development project** collaborations.
  
-- <img src="https://media.giphy.com/media/hdN3Dqcvrtbqv8OkXl/giphy.gif" style="height:40px;width:40px" align = "center"> Ask me about anything **Android Development**  :) 
+- Ask me about anything **Android Development**  :) 
 
-- <img src="https://media.giphy.com/media/euW6JDwrMn0BqyNC8t/giphy.gif" style="height:40px;width:40px" align = "center"> Fun fact: **I Love Anime and Development!!**
+- Fun fact: **I Love Anime and Development!!**
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=232323">
 <hr>
