@@ -57,6 +57,4 @@
 <img src="banner.png" align = "center"/>
 </div>
 
-### <pre align="center"> Welcome, to the world of Binary!! </pre>
-
-<img alt="Thanks for visiting my account" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+### <pre align="center"> <b>Welcome, to the world of Binary!!</b> </pre>
