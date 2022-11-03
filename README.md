@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-<img src="banner.png" style="height:500px;width:900px" align = "center"/>
+<img src="banner.png" align = "center"/>
 </div>
 
 ### <pre align="center"> Welcome, to the world of Binary!! </pre>
