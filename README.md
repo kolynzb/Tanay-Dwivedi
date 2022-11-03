@@ -2,15 +2,15 @@
 <h1 align="center"> Bonjour, TANAY this side</h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
-- I’m currently learning **Flutter Development & Competitive Programming.**
+- 👨‍💻 I’m currently learning **Android/Flutter Development & Competitive Programming.**
 
-- Currently doing projects on <i>**Android Applications**</i> . 
+- 📱 Currently doing projects on <i>**Android</i> as well as <i>Flutter**</i> . 
 
-- I am always up for **Hackathons and App Development project** collaborations.
+- 🦜 I am always up for **Hackathons and App Development project** collaborations.
  
-- Ask me about anything **Android Development**  :) 
+- 📖 Ask me about anything **Android Development**  :) 
 
-- Fun fact: **I Love Anime and Development!!**
+- 😜 Fun fact: **I Love watching Anime and playing Piano!!**
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=22CCB2">
 <hr>
