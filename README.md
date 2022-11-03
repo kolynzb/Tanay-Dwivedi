@@ -59,4 +59,4 @@
 
 ### <pre align="center"> Welcome, to the world of Binary!! </pre>
 
-<img height="120" alt="Thanks for visiting my account" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="200" alt="Thanks for visiting my account" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
