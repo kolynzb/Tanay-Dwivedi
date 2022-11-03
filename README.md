@@ -57,4 +57,4 @@
 <img src="banner.png" align = "center"/>
 </div>
 
-### <pre align="center"> <b>Welcome, to the world of Binary!!</b> </pre>
+### <p align="center"> <b>Welcome, to the world of Binary!!</b> </p>
