@@ -12,7 +12,7 @@
 
 - Fun fact: **I Love Anime and Development!!**
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=232323">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=itskhushis1&style=flat-square&color=68838B">
 <hr>
 <br>
 
@@ -58,5 +58,6 @@
 <img src="banner.png" style="height:500px;width:900px" align = "center"/>
 </div>
 
-### <pre align="center"> <img src="https://media.giphy.com/media/mBSeE1Q3yxcb0XoSKh/giphy.gif" style="height:60px;width:60px" align = "center"> Welcome, to the world of Binary!! <img src="https://media.giphy.com/media/259aIp7etgoXSNijRM/giphy.gif" style="height:60px;width:60px" align = "center"> </pre>
+### <pre align="center"> Welcome, to the world of Binary!! </pre>
 
+<img height="120" alt="Thanks for visiting my account" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
