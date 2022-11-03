@@ -54,7 +54,6 @@
 <br>
 
 <div align="center">
-<!-- <img src="https://media.giphy.com/media/5OAbnb3j3TvE2gT9Nb/giphy.gif" style="height:400px;width:750px"> -->
 <img src="banner.png" style="height:500px;width:900px" align = "center"/>
 </div>
 
