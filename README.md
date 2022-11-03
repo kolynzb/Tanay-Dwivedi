@@ -12,7 +12,7 @@
 
 - Fun fact: **I Love Anime and Development!!**
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=itskhushis1&style=flat-square&color=68838B">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
