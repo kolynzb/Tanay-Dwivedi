@@ -30,7 +30,7 @@
 
 <hr>
 
-### <img src="https://media.giphy.com/media/s8dUuYpERzv9yPASAc/giphy.gif" style="height:55px;width:55px" align = "center"> My Skill stack :
+### <img src="techStack.png" style="height:125px;width:125px" align = "center"> My Skill stack :
 
 |               |           |
 |       ---     |    ---    |
