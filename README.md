@@ -16,6 +16,8 @@
 
 - 😜 Fun fact: **I Love watching Anime and playing Piano!!**
 
+<br>
+
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Tanay-Dwivedi&style=flat-square&color=22CCB2">
 <hr>
 <br>
