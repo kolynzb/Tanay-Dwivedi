@@ -1,4 +1,8 @@
 
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Tanay-Dwivedi&data=followers,repositories,stars,commits">
+</p>
+
 <h1 align="center"> Bonjour🤠, TANAY this side🙎‍♂️</h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
