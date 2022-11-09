@@ -65,3 +65,6 @@
 </div>
 
 ### <p align="center">🎉 Welcome, to the world of Binary 🥂</p>
+<br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
