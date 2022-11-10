@@ -69,6 +69,3 @@
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### <p align="center">🎉 Welcome, to the world of Binary 🥂</p>
-<br>
