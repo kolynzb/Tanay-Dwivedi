@@ -5,18 +5,18 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h1 align="center"> Bonjour🤠, TANAY this side🙎‍♂️</h1>
+<h1 align="center"> Bonjour🤠, 𝕿𝖆𝖓𝖆𝖞 this side🙎‍♂️</h1>
 <h3 align="center">An aspiring App Developer and a Tech Geek with a passion of learning new technologies</h3>
 
-- 👨‍💻 I’m currently learning **Android/Flutter Development & Competitive Programming.**
+- 👨‍💻 I’m currently learning **𝙰𝚗𝚍𝚛𝚘𝚒𝚍/𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 & 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 
-- 📱 Currently doing projects on <i>**Android</i> as well as <i>Flutter**</i> . 
+- 📱 Currently doing projects on **𝙰𝚗𝚍𝚛𝚘𝚒𝚍** as well as **𝙵𝚕𝚞𝚝𝚝𝚎𝚛** . 
 
-- 🦜 I am always up for **Hackathons and App Development project** collaborations.
+- 🦜 I am always up for **𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗𝚜 𝚊𝚗𝚍 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝** collaborations.
  
-- 📖 Ask me about anything **Android Development**  :) 
+- 📖 Ask me about anything **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**  :) 
 
-- 😜 Fun fact: **I Love watching Anime and playing Piano!!**
+- 😜 Fun fact: **𝙸 𝙻𝚘𝚟𝚎 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝙿𝚒𝚊𝚗𝚘!!**
 
 <br>
 
