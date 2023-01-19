@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Professional%20Mobile%20App%20Developer;Android%20and%20Flutter%20Expert;2%2B%20years%20of%20rich%20experience;Always%gitting%20it%20done&font=Pacifico&center=true&width=650&height=120&color=22CCB2&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Professional%20Mobile%20App%20Developer;Android%20and%20Flutter%20Expert;2%2B%20years%20of%20rich%20experience;Always%20gitting%20it%20done&font=Pacifico&center=true&width=650&height=120&color=22CCB2&vCenter=true&size=45%22"></a>
 </p>
 
 - 👨‍💻 I’m currently learning **𝙰𝚗𝚍𝚛𝚘𝚒𝚍/𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 & 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
